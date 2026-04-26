@@ -183,4 +183,4 @@ If you found this project useful, give it a ⭐ on GitHub!
 GitHub: [https://github.com/ARUP-KANUNGO](https://github.com/ARUP-KANUNGO)
 
 ---
-Just say 👍
+👍
